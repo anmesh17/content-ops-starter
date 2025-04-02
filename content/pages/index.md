@@ -10,7 +10,7 @@ sections:
     subtitle: We can guarentee you! This ebook can change your life
     text: ''
     actions:
-      - label: Get started
+      - label: Buy now
         altText: ''
         url: /
         showIcon: false
