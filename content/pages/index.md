@@ -7,6 +7,9 @@ sections:
       text: COMPLETE ROADMAP OF DROPSHIPPING
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textDecoration: line-through
     subtitle: We can guarentee you! This ebook can change your life
     text: ''
     actions:
