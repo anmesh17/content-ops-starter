@@ -8,8 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: We can guarentee you! This ebook can change your life
-    text: |
-      Welcome! 
+    text: ''
     actions:
       - label: Get started
         altText: ''
