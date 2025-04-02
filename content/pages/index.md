@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textDecoration: line-through
+          fontStyle: italic
     subtitle: We can guarentee you! This ebook can change your life
     text: ''
     actions:
